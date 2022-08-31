@@ -1,0 +1,4 @@
+snscrape==0.4.3.20220106
+pandas==1.4.3
+selenium==4.4.3
+ipdb==0.13.9
